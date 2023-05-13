@@ -1,5 +1,5 @@
 %% Online Inference of Q Matrix using the Measurement Difference Method (MDM)%%
-%% --------- Original Code by Jindřich Duník, Oliver Kost, Ondřej Straka (208) -----------------------
+%% --------- Original Code by Jindřich Duník, Oliver Kost, Ondřej Straka (2019) -----------------------
 %% Created by Bhargob Deka and James-A. Goulet, 2023
 %%
 clear;clc
