@@ -8,8 +8,15 @@ Figure presents the online estimation of the error variance term for three difff
 ## Contributions
 - Bhargob Deka (code development and methodology)
 - James-A. Goulet (methodology)
+## License
+This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgement
 This project was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), Hydro-Qu\'ebec (HQ), Hydro-Qu\'ebec's Research Institute (IREQ), Institute For Data Valorization (IVADO). The authors thank Luong Ha Nguyen, Post doc, Department of Civil, Geologic and Mining  Engineering, Polytechnique Montr\'eal for his help in the project.
+## References
+Deka, B., Ha Nguyen, L., Amiri, S., & Goulet, J. A. (2022). The Gaussian multiplicative approximation for state‐space models. Structural Control and Health Monitoring, 29(3), e2904.
+Goulet, J. A., Nguyen, L. H., & Amiri, S. (2021). Tractable approximate Gaussian inference for Bayesian neural networks. The Journal of Machine Learning Research, 22(1), 11374-11396.
+Huang, Y., Zhu, F., Jia, G., & Zhang, Y. (2020). A slide window variational adaptive Kalman filter. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(12), 3552-3556.
+Kost, O., Duník, J., & Straka, O. (2022). Measurement Difference Method: A Universal Tool for Noise Identification. IEEE Transactions on Automatic Control, 68(3), 1792-1799.
 
 
   
