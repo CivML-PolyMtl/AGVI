@@ -1,2 +1,3 @@
 # AGVI
-This repository provides illustrative examples for application of the approximate Gaussian variance inference (AGVI) method.
+This repository provides illustrative examples for application of the <b>approximate Gaussian variance inference (AGVI)<\b> method. AGVI is an online Bayesian inference method that allows inferring the process error variance terms analytically through closed-form equations. The method provides unbiased and statistically consistent estimates for both the mean as well as the uncertainty associated with the variance terms. Moreover, compared to two recently published adaptive Kalman filter approaches, namely SWVAKF and MDM, AGVI provides better predictive accuracy in terms of root mean square estimates (RMSE). 
+  
