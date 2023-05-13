@@ -5,6 +5,11 @@ Two Case studies are provided in this repository. Case study $1$ focuses on the 
 ## Illustration
 Figure presents the online estimation of the error variance term for three diffferent cases with different initializations. The true $\sigma^2_{W}$ value in each case is shown in red dashed line, while the estimated values and their $\pm1\sigma$ uncertainty bound are shown in black and green shaded area.
 ![Online estimation of the error variance term for three diffferent cases with different initialization. The true $\sigma^2_{W}$ value in each case is shown in red dashed line, while the estimated values and their $\pm1\sigma$ uncertainty bound are shown in black and green shaded area.](Figures/Figure1_case_study1.png)
+## Contributions
+- Bhargob Deka (code development and methodology)
+- James-A. Goulet (methodology)
+## Acknowledgement
+This project was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), Hydro-Qu\'ebec (HQ), Hydro-Qu\'ebec's Research Institute (IREQ), Institute For Data Valorization (IVADO). The authors thank Luong Ha Nguyen, Post doc, Department of Civil, Geologic and Mining  Engineering, Polytechnique Montr\'eal for his help in the project.
 
 
   
